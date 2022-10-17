@@ -19,7 +19,7 @@
     "deploy": "gh-pages -d build",
     "predeploy": "npm run build"
   },
-  "homepage": "http://{github-username}.github.io/{repo-name}",
+  "homepage": "http://trapsack.github.io/MModLab1",
   "eslintConfig": {
     "extends": [
       "react-app",
